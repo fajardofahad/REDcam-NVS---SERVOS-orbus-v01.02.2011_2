@@ -1,0 +1,8 @@
+en_resource.dll
+->Dialog
+	-100
+->Icon Group
+	-128
+	-164
+->Version
+	-1
